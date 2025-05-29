@@ -18,4 +18,6 @@ This is a responsive product preview card component built with HTML and CSS. It 
 
 ## How to Use
 
+https://simonajanikova.github.io/Product-card/
+
 
